@@ -6,7 +6,7 @@ Note This Mod Is In Beta.
 For the recipes use a mod like JEI: https://www.curseforge.com/minecraft/mc-mods/jei
  
 
-ExtraArmor:
+# ExtraArmor:
 
 ExtraArmor does 3 things.
 
@@ -16,7 +16,6 @@ ExtraArmor does 3 things.
 
 3. Adds new ore and worlds?
 
- 
 
 Armor Model Made By txtur
 
