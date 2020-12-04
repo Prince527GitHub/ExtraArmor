@@ -24,3 +24,5 @@ Stone Armor By Wam25
 Armor Effect By DiamondGolurk
 
 The Rest Was Made By Prince527
+# Extra
+CurseForge : https://www.curseforge.com/minecraft/mc-mods/exa/files
