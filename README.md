@@ -17,12 +17,16 @@ ExtraArmor does 3 things.
 3. Adds new ore and worlds?
 
 # Support
-Armor Model Made By txtur
+Most texture made by txtur
 
-Stone Armor By Wam25
+Stone armor by Wam25
 
-Armor Effect By DiamondGolurk
+Armor effect code by DiamondGolurk
 
-The Rest Was Made By Prince527
+Some texture was from the internet (google image)
+
+The rest was made by Prince527
+
 # Extra
 CurseForge : https://www.curseforge.com/minecraft/mc-mods/exa/files
+Modrinth : https://modrinth.com/mod/EXA
