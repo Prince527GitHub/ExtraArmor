@@ -28,6 +28,6 @@ Some texture was from the internet (google image)
 The rest was made by Prince527
 
 # Extra
-CurseForge : https://www.curseforge.com/minecraft/mc-mods/exa/files
+CurseForge : https://www.curseforge.com/minecraft/mc-mods/exa
 
 Modrinth : https://modrinth.com/mod/EXA
