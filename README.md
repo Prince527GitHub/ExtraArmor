@@ -29,4 +29,5 @@ The rest was made by Prince527
 
 # Extra
 CurseForge : https://www.curseforge.com/minecraft/mc-mods/exa/files
+
 Modrinth : https://modrinth.com/mod/EXA
