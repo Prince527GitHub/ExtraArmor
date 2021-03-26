@@ -1,4 +1,4 @@
-# ReadME
+# EXA
 
 Note This Mod Is In Beta.
  
@@ -6,7 +6,7 @@ Note This Mod Is In Beta.
 For the recipes use a mod like JEI: https://www.curseforge.com/minecraft/mc-mods/jei
  
 
-# ExtraArmor:
+## ExtraArmor:
 
 ExtraArmor does 3 things.
 
@@ -16,7 +16,7 @@ ExtraArmor does 3 things.
 
 3. Adds new ore and worlds?
 
-# Credit
+## Credit
 Most texture made by txtur
 
 Stone armor by Wam25
@@ -27,7 +27,7 @@ Some texture was from the internet (google image)
 
 The rest was made by Prince527
 
-# Extra
+## Extra
 CurseForge : https://www.curseforge.com/minecraft/mc-mods/exa
 
 Modrinth : https://modrinth.com/mod/EXA
