@@ -16,7 +16,7 @@ ExtraArmor does 3 things.
 
 3. Adds new ore and worlds?
 
-# Support
+# Credit
 Most texture made by txtur
 
 Stone armor by Wam25
