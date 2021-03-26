@@ -20,6 +20,6 @@ Armor effect code by **DiamondGolurk**
 The rest was made by **Prince527**
 
 ## Extra
-CurseForge : https://www.curseforge.com/minecraft/mc-mods/exa
+**[CurseForge](https://www.curseforge.com/minecraft/mc-mods/exa)**
 
-Modrinth : https://modrinth.com/mod/EXA
+**[Modrinth](https://modrinth.com/mod/EXA)**
