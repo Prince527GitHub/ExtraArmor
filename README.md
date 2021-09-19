@@ -1,5 +1,7 @@
 # ExtraArmor
 
+<image src='https://cdn.modrinth.com/data/IYuK6lgn/icon.png'>EXA-LOGO</image>
+
 ExtraArmor does 3 things.
 
 1. Adds new armor and tools.
