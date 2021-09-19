@@ -1,6 +1,6 @@
 # ExtraArmor
 
-<image src='https://cdn.modrinth.com/data/IYuK6lgn/icon.png'>EXA-LOGO</image>
+<image style='width: 50%;margin-right: auto;margin-left: auto;display: block;' src='https://cdn.modrinth.com/data/IYuK6lgn/icon.png'></image>
 
 ExtraArmor does 3 things.
 
