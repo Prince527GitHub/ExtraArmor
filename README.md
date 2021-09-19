@@ -4,7 +4,7 @@ ExtraArmor does 3 things.
 
 1. Adds new armor and tools.
 
-2. Adds 1.16 and 1.17 features into 1.15.2
+2. Adds 1.17 features into 1.16.5
 
 3. Adds new ore and worlds?
 
