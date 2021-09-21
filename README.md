@@ -5,7 +5,6 @@
   <a href="https://github.com/Prince527GitHub/ExtraArmor">
     <img src="https://cdn.modrinth.com/data/IYuK6lgn/icon.png" alt="EXA-Logo" width="200" height="200">
   </a>
-</p>
 
 ExtraArmor does 3 things.
 
@@ -30,3 +29,5 @@ The rest was made by **Prince527**
 **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/exa)**
 
 **[Modrinth](https://modrinth.com/mod/EXA)**
+
+</p>
