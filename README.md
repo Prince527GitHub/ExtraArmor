@@ -20,9 +20,9 @@
   <p align="center">Some texture was from the internet (google image)</p>
   <p align="center">The rest was made by Prince527</p>
 
-## Websites
-**[CurseForge](https://www.curseforge.com/minecraft/mc-mods/exa)**
-
-**[Modrinth](https://modrinth.com/mod/EXA)**
+  <h2 align="center">Websites</h2>
+  
+  <a href="https://www.curseforge.com/minecraft/mc-mods/exa">CurseForge</a>
+  <a href="https://modrinth.com/mod/EXA">Modrinth</a>
 
 </p>
