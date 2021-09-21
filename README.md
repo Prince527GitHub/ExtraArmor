@@ -22,7 +22,9 @@
 
   <h2 align="center">Websites</h2>
   
-  <a href="https://www.curseforge.com/minecraft/mc-mods/exa">CurseForge</a>
-  <a href="https://modrinth.com/mod/EXA">Modrinth</a>
+  <p align="center">
+    <a href="https://www.curseforge.com/minecraft/mc-mods/exa">CurseForge</a>
+    <a href="https://modrinth.com/mod/EXA">Modrinth</a>
+  </p>
 
 </p>
