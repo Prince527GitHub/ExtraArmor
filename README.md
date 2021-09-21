@@ -6,8 +6,9 @@
 
   <h1 align="center">ExtraArmor</h1>
   
-  <h3 align="center">ExtraArmor does 3 things.</h3>
+  <h3 align="center">Info</h3>
 
+  <p align="center">ExtraArmor does 3 things.</p>
   <p align="center">1. Adds new armor and tools.</p>
   <p align="center">2. Adds 1.17 features into 1.16.5</p>
   <p align="center">3. Adds new ore and worlds?</p>
