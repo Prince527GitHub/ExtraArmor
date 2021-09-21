@@ -4,9 +4,9 @@
     <img src="https://cdn.modrinth.com/data/IYuK6lgn/icon.png" alt="EXA-Logo" width="200" height="200">
   </a>
 
-  <h1 align="center">ExtraArmor</h1>
+  <h3 align="center">ExtraArmor</h3>
   
-  <h3 align="center">Info</h3>
+  <h2 align="center">Info</h2>
 
   <p align="center">ExtraArmor does 3 things.</p>
   <p align="center">1. Adds new armor and tools.</p>
