@@ -8,11 +8,11 @@
 
   <h3 align="center">ExtraArmor does 3 things.</h3>
 
-1. Adds new armor and tools.
-
-2. Adds 1.17 features into 1.16.5
-
-3. Adds new ore and worlds?
+  <p align="center">
+    1. Adds new armor and tools.
+    2. Adds 1.17 features into 1.16.5
+    3. Adds new ore and worlds?
+  </p>
 
 ## Credit
 Most texture made by **txtur**
