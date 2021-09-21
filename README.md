@@ -14,11 +14,11 @@
 
   <h2 align="center">Credit</h2>
   
-  <p align="center">Most texture made by <h3 align="center">txtur</h3></p>
-  <p align="center">Stone armor by <h3 align="center">Wam25</h3></p>
-  <p align="center">Armor effect code by <h3 align="center">DiamondGolurk</h3></p>
-  <p align="center"><h3 align="center">Some texture was from the internet (google image)</h3></p>
-  <p align="center">The rest was made by <h3 align="center">Prince527</h3></p>
+  <p align="center">Most texture made by txtur</p>
+  <p align="center">Stone armor by Wam25</p>
+  <p align="center">Armor effect code by DiamondGolurk</p>
+  <p align="center">Some texture was from the internet (google image)</p>
+  <p align="center">The rest was made by Prince527</p>
 
 ## Websites
 **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/exa)**
