@@ -8,22 +8,17 @@
 
   <h3 align="center">ExtraArmor does 3 things.</h3>
 
-  <p align="center">
-    1. Adds new armor and tools.
-    2. Adds 1.17 features into 1.16.5
-    3. Adds new ore and worlds?
-  </p>
+  <p align="center">1. Adds new armor and tools.</p>
+  <p align="center">2. Adds 1.17 features into 1.16.5</p>
+  <p align="center">3. Adds new ore and worlds?</p>
 
-## Credit
-Most texture made by **txtur**
-
-Stone armor by **Wam25**
-
-Armor effect code by **DiamondGolurk**
-
-**Some texture was from the internet (google image)**
-
-The rest was made by **Prince527**
+  <h2 align="center">Credit</h2>
+  
+  <p align="center">Most texture made by <h6>txtur</h6></p>
+  <p align="center">Stone armor by <h6>Wam25</h6></p>
+  <p align="center">Armor effect code by <h6>DiamondGolurk</h6></p>
+  <p align="center"><h6>Some texture was from the internet (google image)</h6></p>
+  <p align="center">The rest was made by <h6>Prince527</h6></p>
 
 ## Websites
 **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/exa)**
