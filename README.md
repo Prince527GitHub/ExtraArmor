@@ -4,7 +4,7 @@
     <img src="https://cdn.modrinth.com/data/IYuK6lgn/icon.png" alt="EXA-Logo" width="200" height="200">
   </a>
 
-  <h1 align="center">ExtraArmor</h1>
+  <h3 align="center" style="font-size:15px;">ExtraArmor</h3>
   
   <h2 align="center">Info</h2>
 
